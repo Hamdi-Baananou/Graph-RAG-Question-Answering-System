@@ -1,4 +1,9 @@
-.log
+# Ignore the log file
+graph_rag.log
+
+# Ignore the virtual environment folder
+venv/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
